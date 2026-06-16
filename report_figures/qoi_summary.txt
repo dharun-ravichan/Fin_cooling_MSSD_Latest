@@ -1,0 +1,3 @@
+Natural Convection Energy : 1382711.029551 J/m
+Forced Convection Energy  : 55791624.533378 J/m
+Improvement Factor        : 40.349446
